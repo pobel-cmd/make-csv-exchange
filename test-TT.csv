@@ -947,7 +947,9 @@
 "4732","PASHCHENKO","Natalya Alexandrovna","10/10/1975","","Personne physique","127059396"
 "1120","BAKHIN","Arkady Viktorovich","08/05/1956","","Personne physique","127059397"
 "7006","STYOZHKA","Bogdan Vasilyevich","29/06/1977","Богдан Васильевич СТИОЖКА","Personne physique","127059398"
-"1121","KATRANGI","Amir Hachem","24/06/1966","KATRANJI Amir Hachem","Personne physique","127059399"
+"1121","KATRANGI","Amir Hachem","24/06/1966","KATRANJI Amir Hachem
+KATRANJI Amir Hashem
+ALKATRANJI Amir Hachem","Personne physique","127059399"
 "2263","Adil Abdallah Mahdi","","//1945","","Personne physique","127059400"
 "6511","ELIZAROV","Anton Olegovich","//1981","YELIZAROV","Personne physique","127059401"
 "4450","PISAREVA","Elena Vladimirovna","20/01/1967","","Personne physique","127059402"
@@ -1453,7 +1455,8 @@
 "6829","BUINGO","Janvier Karairi","//1962","“Karahiri” BUINGO","Personne physique","127059904"
 "3482","PRIETO FERNÁNDEZ","Omar José","25/05/1969","","Personne physique","127059905"
 "4050","BURMATOV","Vladimir Vladimirovich","18/08/1981","","Personne physique","127059906"
-"1832","Smart Pegasus","","","Smart Green Power","Personne morale","127059907"
+"1832","Smart Pegasus","","","Smart Green Power
+Lumières Elysées","Personne morale","127059907"
 "5325","SHATUN","Anton Olegovich","12/02/1990","","Personne physique","127059908"
 "3328","MUHAMMAD TAHER ANWARI","","//1961","Mohammad Taher Anwari","Personne physique","127059909"
 "1184","KHORAMABADI","Abdolsamad","","","Personne physique","127059910"
@@ -4349,7 +4352,6 @@
 "6717","SOLTAEV","Mansur Mussayevitch","13/06/1978","Мансур Муссаевич СОЛТАЕВ","Personne physique","127062815"
 "2863","ATABIEV","Islam Seit-Umarovich","29/09/1983","Abu Jihad","Personne physique","127062816"
 "3855","IGNATOV","Viktor Aleksandrovich","15/10/1968","","Personne physique","127062817"
-"7602","Ismail Barhoum","","23/12/1968","","Personne physique","127062818"
 "7628","KIBIRIGE","Amigo","//1975","Kibirige Muhammand","Personne physique","127062819"
 "8108","Joint Stock Company “Research and Production Enterprise ‘Polet’”","","","En russe: Акционерное Общество “Научно-Производственное Предприятие ‘Полет’”  autrement connue sous le nom de: AO “NPP ‘Polet’”  ou JSC Research and Production Enterprise “Polet","Personne morale","127062820"
 "1596","BASOVA","Lidia Aleksandrovna","04/09/1972","Lidiya Oleksandrivna BASOVA","Personne physique","127062821"
@@ -4908,7 +4910,9 @@
 "3562","Aung Lin Tun","","","","Personne physique","127063375"
 "3124","MUHAMMAD OMAR ZADRAN","","//1958","","Personne physique","127063376"
 "5007","Commission électorale centrale (CEC)","","","","Personne morale","127063377"
-"1678","KASSOUM","Mohamed","28/10/1971","KASSOUMEH Mohamed","Personne physique","127063378"
+"1678","KASSOUM","Mohamed","28/10/1971","KASSOUMEH Mohamed
+KASSOUM Mohamed Youssef
+KASSOUMEH Mohamed Youssef","Personne physique","127063378"
 "4203","LEONOV","Oleg Yuryevich","10/09/1970","","Personne physique","127063379"
 "3563","Zaw Min Tun","","","","Personne physique","127063380"
 "2235","Military Housing Establishment","","","MILIHOUSE","Personne morale","127063381"
@@ -5976,3 +5980,8 @@
 "8681","SeverTransBunker Company Limited","","","","Personne morale","137195008"
 "8682","GORDEEV","Dmitry Sergeyevich","09/08/1983","Дмитрий Сергеевич Гордеев","Personne physique","137524097"
 "8683","BALANDINA","Lyudmila","16/11/1984","Людмила БАЛАНДИНА","Personne physique","137524098"
+"8684","ABADLAH","Assaâd","23/07/1975","ABADLA, ABDALLAH","Personne physique","138130779"
+"8685","VICAT","Romain","03/05/1989","","Personne physique","138130780"
+"8686","AMRI","Mohamed Ferid","03/03/1971","","Personne physique","138130781"
+"8687","ABADLAH","Salam","24/11/1977","ABADLA, ABDALLAH","Personne physique","138130782"
+"8688","ASSALAM","","","","Personne morale","138130783"
