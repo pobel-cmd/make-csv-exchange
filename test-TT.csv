@@ -1,4 +1,5 @@
 "IdRegistre","Nom","Prenom","Date_de_naissance","Alias","Nature","RowID"
+"10000","TEST","Test","","","","139162585"
 "7805","JSC Gruppa Kremniy El","","","АО Группа Кремний Эл","Personne morale","127058448"
 "2082","HASAN","Malik","01/01/1959","Malek Hassan","Personne physique","127058449"
 "2382","KOREA KUMSAN TRADING CORPORATION","","","","Personne morale","127058450"
@@ -5487,7 +5488,6 @@
 "1760","Izzat Ibrahim Al-Duri","","//1942","Abu Brays","Personne physique","127063958"
 "4025","BELYCH","Irina Victorovna","16/08/1964","","Personne physique","127063959"
 "3561","KASIANCHYK","Alina Siarhieeuna","12/03/1998","Alina Sergeevna KASYANCHYK","Personne physique","127063960"
-"2037","Test Tafsir","","","","Personne morale","127063961"
 "8169","MERIMI","Abdesamad","08/03/1969","Abdessamad MERIMI","Personne physique","127063962"
 "4126","Ivaninskiy","Oleg Ivanovich","05/06/1966","","Personne physique","127063963"
 "6702","SERDYUKOVA","Viktoria Alexandrovna","09/06/1981","Виктория Александровна СЕРДЮКОВА","Personne physique","127063964"
