@@ -1,5 +1,4 @@
 "IdRegistre","Nom","Prenom","Date_de_naissance","Alias","Nature","RowID"
-"10000","TEST","Test","","","","139162585"
 "7805","JSC Gruppa Kremniy El","","","АО Группа Кремний Эл","Personne morale","127058448"
 "2082","HASAN","Malik","01/01/1959","Malek Hassan","Personne physique","127058449"
 "2382","KOREA KUMSAN TRADING CORPORATION","","","","Personne morale","127058450"
@@ -6025,3 +6024,4 @@
 "8731","SHEYKHI","Morteza","","مرتضی شیخی","Personne physique","139136485"
 "8732","POURBEHESHT","Seyed Ali-Asghar","","","Personne physique","139136486"
 "8733","LAADJAL","Amine","21/03/1987","","Personne physique","139136487"
+"2037","Test Tafsir","","","","Personne morale","139220792"
